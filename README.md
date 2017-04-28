@@ -1,3 +1,10 @@
 # Tyler's Task Application
 
-Way to keep track of your day to day tasks.
+**STATUS** - Currently in Alpha
+
+**Version** - .1
+
+**Release Notes**:
+
+**About**:
+This is your average task keeping app.
