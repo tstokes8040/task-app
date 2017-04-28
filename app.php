@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css" type="text/css">
+
 <?
 include_once 'connection.php';
 
