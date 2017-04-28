@@ -6,6 +6,7 @@ $query = $conn->prepare('SELECT id, name, checked FROM task'); //SQL query
 //$query->bind_param('i', 2); // i stands for integer, there's also s for string
 $query->execute(); //Execute query
 $query->bind_result($id, $name, $checked);//Bind query results
+$query->store_result();
 
 if ($query->num_rows > 0) {
     // output data of each row
