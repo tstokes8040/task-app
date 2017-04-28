@@ -1,11 +1,9 @@
 # Tyler's Task Application
 
-**STATUS** - Currently in Alpha
+**STATUS**: Currently in Alpha
 
-**Version** - .2
+**Version**: .2
 
-**Release Notes**:
-N/A
+**Release Notes**: N/A
 
-**About**:
-This is your average task keeping app.
+**About**: This is your average task keeping app.
