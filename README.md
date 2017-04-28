@@ -2,9 +2,10 @@
 
 **STATUS** - Currently in Alpha
 
-**Version** - .1
+**Version** - .2
 
 **Release Notes**:
+N/A
 
 **About**:
 This is your average task keeping app.
