@@ -1,7 +1,7 @@
 # Tyler's Task Application
 
-**Version**: .2
+**Version**: .15
 
-**Release Notes**: N/A
+**Release Notes**: Added API for application.
 
 **About**: This is your average task keeping app.
