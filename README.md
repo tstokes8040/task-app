@@ -1,4 +1,5 @@
-# Tyler's Task Application
+# Tasky
+Because we all do tasky things.
 
 **Version**: .15
 
