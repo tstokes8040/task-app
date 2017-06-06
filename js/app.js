@@ -11,7 +11,7 @@ function getTasks(){
       for (let i = 0; i < data.length; i++) {
         $tasks.innerHTML += `<div class="task">${data[i].name}</div>`;
       }
-    }
+    }   
   }
   theRequest.send();
 }
